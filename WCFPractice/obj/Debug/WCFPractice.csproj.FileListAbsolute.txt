@@ -1,0 +1,6 @@
+D:\Coding\WCFSolution\WCFPractice\WCFPractice\bin\WCFPractice.dll.config
+D:\Coding\WCFSolution\WCFPractice\WCFPractice\bin\WCFPractice.dll
+D:\Coding\WCFSolution\WCFPractice\WCFPractice\bin\WCFPractice.pdb
+D:\Coding\WCFSolution\WCFPractice\WCFPractice\obj\Debug\WCFPractice.csprojAssemblyReference.cache
+D:\Coding\WCFSolution\WCFPractice\WCFPractice\obj\Debug\WCFPractice.dll
+D:\Coding\WCFSolution\WCFPractice\WCFPractice\obj\Debug\WCFPractice.pdb
